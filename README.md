@@ -10,7 +10,7 @@ https://youtu.be/OvDsR3R77P0
 **Part 1 Video:**
 In this video, I am demonstrating the usage of my App.
 https://youtu.be/Vo095pNEp3M
-<img width="283" height="39" alt="image" src="https://github.com/user-attachments/assets/362aa38a-664e-46b0-983f-f1cb31908951" />
+
 
 ## Key Feature
 ### 1. User Authentication:
