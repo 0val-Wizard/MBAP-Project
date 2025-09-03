@@ -2,44 +2,55 @@
 Mobile App Development(MBAP) is a Year 2 Module in TP. It introduces the techniques and practices of programming and the implementation of applications on multiple devices and platforms. Topics covered include an overview of how mobile applications are used in various industries, user interface, and mobile application development across platforms.
 
 ## Video: 
-Part 2 Video:
+**Part 2 Video:**
 [App features are finalised -> Application made better]
 https://youtu.be/OvDsR3R77P0
 
 
-Part 1 Video
+**Part 1 Video:**
 In this video, I am demonstrating the usage of my App.
 https://youtu.be/Vo095pNEp3M
 <img width="283" height="39" alt="image" src="https://github.com/user-attachments/assets/362aa38a-664e-46b0-983f-f1cb31908951" />
 
 ## Key Feature
-1. User Authentication:
+### 1. User Authentication:
 - Sign Up: Users can create an account using email and password.
 - Login: Users can log in with their credentials.
 - Password Reset: Users can reset their password if forgotten.
 - Password Update: Users can update their password after logging in.
 - Authentication: Ensures secure access to the app with email and password.
 
-2. Product Management:
+### 2. Product Management:
 - Add Product: Users can add new products, including uploading product images to Firebase Storage and saving product details to Firestore.
 - Retrieve Products: Users can view a list of their products. There are specific methods for retrieving all products and products by the current user.
 - Update Product: Users can update product details.
 - Delete Product: Users can delete products.
 
-3. User Interface:
+### 3. User Interface:
 - Forms: Used for user input, such as adding or updating products, and for authentication (registration, login, password reset/update).
 - Feedback Mechanism: Use of Snackbars to provide feedback for user actions, including success and error messages.
 
-4. Error Handling:
+### 4. Error Handling:
 - Validation: Form validation to ensure correct user input before performing actions.
 - Error Messages: Display of error messages using Snackbars for actions like login failures, product addition failures, etc.
 
-5. State Management:
+### 5. State Management:
 - Form Keys: Use of GlobalKey to manage form state and validation.
 - Firebase Auth State Changes: Stream to listen for authentication state changes.
-<img width="938" height="276" alt="image" src="https://github.com/user-attachments/assets/b5418561-b5df-4c34-8ebe-41c23c9c480d" />
 
-<img width="1017" height="363" alt="image" src="https://github.com/user-attachments/assets/f24c3c08-970b-4235-92ed-41ff47887272" />
+### 6. User Interface:
+- Forms: Used for user input, such as adding or updating products, and for authentication (registration, login, password reset/update).
+- Feedback Mechanism: Use of Snackbars to provide feedback for user actions, including success and error messages.
+
+### 7. Error Handling:
+- Validation: Form validation to ensure correct user input before performing actions.
+- Error Messages: Display of error messages using Snackbars for actions like login failures, product addition failures, etc.
+
+### 8. State Management:
+- Form Keys: Use of GlobalKey to manage form state and validation.
+- Firebase Auth State Changes: Stream to listen for authentication state changes.
+
+
 
 
 
